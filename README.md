@@ -67,7 +67,7 @@ TodoApp/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/todo-app-webapi.git
+   git clone https://github.com/Fahim2280/To-Do-Api.git
    cd todo-app-webapi
    ```
 
@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/Fahim2280)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdfahimalam/))
 
 ## 🙏 Acknowledgments
 
