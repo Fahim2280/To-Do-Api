@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [Fahim2280](https://github.com/Fahim2280)
-- LinkedIn: [Md Fahim Alam]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mdfahimalam/))
+- LinkedIn: [Md Fahim Alam](https://www.linkedin.com/in/mdfahimalam/)
 
 ## 🙏 Acknowledgments
 
